@@ -1,0 +1,40 @@
+news:
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+
+  - name: The Register AI
+    url: https://go.theregister.com/feed/category/ai2/
+
+jobs:
+  - name: RemoteFirstJobs AI
+    url: https://remotefirstjobs.com/rss/jobs/ai.rss
+
+  - name: Jobicy
+    url: https://jobicy.com/feed/job_feed
+
+  - name: Himalayas
+    url: https://himalayas.app/jobs/rss
+
+  - name: Remote OK
+    url: https://remoteok.com/remote-jobs.rss
+
+  - name: RemoteYeah
+    url: https://remoteyeah.com/rss.xml
+
+research:
+  arxiv_api: https://export.arxiv.org/api/query
+
+startup:
+  ycombinator_directory: https://www.ycombinator.com/companies
+
+product:
+  product_hunt_graphql: https://api.producthunt.com/v2/api/graphql
