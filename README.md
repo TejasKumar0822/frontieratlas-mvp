@@ -19,9 +19,7 @@ This repository implements a trial-sized version of the ingestion architecture d
 - Excel/CSV export matching the requested six tabs.
 - Architecture document explaining how to scale the same design to 500k+ records.
 
-## Important integrity rule
-
-The assignment warns that hallucinated data causes disqualification. This implementation therefore treats source pages as the source of truth. Missing values remain `null`; the LLM is not allowed to invent them. Every stored record keeps a source URL.
+#
 
 ## Quick start
 
